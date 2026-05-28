@@ -1,6 +1,6 @@
 # hrtfpykit Tutorial Resources
 
-This repository stores small resource files used by [`hrtfpykit`](https://github.com/ArielAlvarez-Martinez/hrtfpykit) tutorials, examples, and documentation. It provides shared tutorial assets in a separate repository so the main hrtfpykit package stays focused on source code while examples can still reference stable external files.
+This repository store resource files used by [`hrtfpykit`](https://github.com/ArielAlvarez-Martinez/hrtfpykit) tutorials, examples, and documentation. It provides shared tutorial assets in a separate repository so the main hrtfpykit package stays focused on source code while examples can still reference stable external files.
 
 ## Contents
 
